@@ -1,0 +1,82 @@
+﻿#oglavlenie {width: 252px;
+	        height: 642px;
+            min-width: 240px;
+            float: left;
+		    position: relative;
+		    display: block;
+		    padding:10px 8px;
+            background: #FAEBD7;
+            -moz-border-radius: 15px;
+			overflow: auto;
+			font-size:20px;
+			min-height: 500px;
+			-webkit-user-select:none;
+			-webkit-border-radius: 13em 0.5em/1em 0.5em; 
+			border-top: 3px solid black;
+			border-bottom:3px solid black;
+			-webkit-box-shadow:3px 3px 10px #000;
+			position:absolute;
+			list-style-type: none}
+#cmain {width:707px;
+       min-width:200px;
+       height: 590px;
+	   min-height: 200px;
+	   overflow: scroll;
+       float: left;
+	   padding: 10px;
+	   padding-left:33px;
+	   overflow: auto;
+	   background:#EEEEE0;
+	   font-family: Georgia;
+	   padding-bottom:60px;			
+	   -webkit-user-select:none;
+	   -webkit-border-radius: 13em 0.5em/1em 0.5em; 
+	   border-top: 3px solid black;
+	   border-bottom:3px solid black;
+	   position:fixed;
+	   left:274px;
+	   -webkit-user-select:none;
+	   line-height:1.5;
+	   font-size:21px}
+body {color: #3B4043; 
+     background-color: Gainsboro;
+	 margin: 0px;
+	 overflow: hidden;
+	 background: white;
+	 width:100%;
+	 height:100%}
+#pole_oglavleniya{width: 249px;
+	              height: 330px;
+				  -webkit-user-select:none}
+#knopki{position:bottom}
+dd{font-size:14px}
+#cheader{width:1279px;
+         height: 200px;
+		 background:white}
+#navbar .selected A:link, 
+#navbar .selected A:focus, 
+#navbar .selected A:hover, 
+#navbar .selected A:active, 
+#navbar .selected A:visited { 
+	    color: #F8F8F8; 
+        background-color: #576C8C}
+a:hover{background:#ffa500;
+        color:black}
+tr{font-size:17px}
+#date{width:109px;
+      height: 35px;
+	  background:white;
+	  -webkit-box-shadow:3px 3px 10px #000;
+	  -webkit-user-select:none}
+#clock{width:87px;
+      height: 35px;
+	  background:white;
+	  -webkit-box-shadow:3px 3px 10px #000;
+	  -webkit-user-select:none}
+details summary::-webkit-details-marker {
+  background: blue;
+  color: #fff;
+  font-size: 20px;
+}
+hr{height:1px;
+   background:PaleTurquoise}
